@@ -25,13 +25,13 @@ amount of information available on their health conditions – e.g.
 medical reports, research papers, studies, treatment brochures ...
 
 Key challenges patients commonly encounter:
-<ul>
-<li> Text is **complicated and too long**
-<li> **Special terminology** is not understandable
-<li> The text is **not easily accessible** (readability, unknown language,
+
+* Text is **complicated and too long**
+* **Special terminology** is not understandable
+* The text is **not easily accessible** (readability, unknown language,
 small fonts, too narrow etc.)
-<li> Source and **credibility** of information is unknown
-</ul>
+* Source and **credibility** of information is unknown
+
 
 ## Our Vision
 A solution to help patients navigate through the often complex and confusing world of medical information. Help patients to be empowered to manage their disease and make informed decisions with their care teams.
