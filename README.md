@@ -14,7 +14,7 @@ force.”
 <i>Larisa A., Patient Champion Health Hack 2020</i>
 </blockquote>
 
-(https://speakerdeck.com/faxg/whachacallit-med-presentation)
+https://speakerdeck.com/faxg/whachacallit-med-presentation
 
 
 
