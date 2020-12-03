@@ -2,7 +2,7 @@
 title: 3rd party APIs
 has_children: false
 parent: Architecture
-nav_order: 5
+nav_order: 4
 ---
 
 # 3rd party APIs
