@@ -1,7 +1,7 @@
 ---
 title: Vision
 has_children: false
-parent: Overview
+parent: About
 nav_order: 1
 ---
 

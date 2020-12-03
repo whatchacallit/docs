@@ -5,4 +5,12 @@ parent: Architecture
 nav_order: 5
 ---
 
-3rd party APIs
+# 3rd party APIs
+
+We are using a few 3rd party services and APIs. 
+
+
+## Dictionary API
+Merriam-Webster
+1. Get API key
+2. Setup - see backend

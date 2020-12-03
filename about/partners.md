@@ -1,8 +1,8 @@
 ---
 title: Partners 
 has_children: false
-parent: Overview
-nav_order: 2
+parent: About
+nav_order: 3
 ---
 
-Partners
+Our Partners

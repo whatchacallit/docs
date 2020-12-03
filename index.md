@@ -1,6 +1,6 @@
 ---
-title: Index
-has_children: true
+title: Overview
+has_children: false
 nav_order: 2
 ---
 
