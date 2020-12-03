@@ -1,1 +1,8 @@
-theme: jekyll-theme-minimal
+title: "Whatchacallit med  - Documentation"
+remote_theme: pmarsceill/just-the-docs
+
+# see https://pmarsceill.github.io/just-the-docs/docs/configuration/
+
+
+color_scheme: "light"
+search_enabled: false
