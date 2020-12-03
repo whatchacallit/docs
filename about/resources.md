@@ -2,7 +2,7 @@
 title: Resources
 has_children: false
 parent: About
-nav_order: 1
+nav_order: 4
 ---
 
 Resources 

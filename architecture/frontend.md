@@ -2,7 +2,7 @@
 title: Frontend
 has_children: false
 parent: Architecture
-nav_order: 2
+nav_order: 1
 ---
 
 # Frontend (Web)
