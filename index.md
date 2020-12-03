@@ -1,9 +1,3 @@
----
-title: Overview
-has_children: false
-nav_order: 1
----
-
 
 # WhachaCallit Med
 Making medical information more accessible and understandable to patients.
