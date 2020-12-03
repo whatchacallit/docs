@@ -6,3 +6,8 @@ remote_theme: pmarsceill/just-the-docs
 
 color_scheme: "light"
 search_enabled: false
+
+# Aux links for the upper right navigation
+aux_links:
+  "Whatchacallit on GitHub":
+    - "//github.com/whatchacallit"
